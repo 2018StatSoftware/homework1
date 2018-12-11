@@ -1,2 +1,2 @@
 # homework1
-This homework 1
+This is the homework 1
